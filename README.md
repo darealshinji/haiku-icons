@@ -1,7 +1,7 @@
 Haiku Icons
 ===========
 
-Exported to SVG format on Haiku with Icon-O-Matic.
+Exported to SVG and PNG format on Haiku with Icon-O-Matic.
 
 Checkout source: `git clone git://git.haiku-os.org/haiku`<br>
 Browse source: https://cgit.haiku-os.org/haiku/tree/data/artwork<br>
