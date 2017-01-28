@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#ffa21d"
+        d="M4 60H60L32 4L4 60z"
+  />
+  <path style="fill:none; stroke:#da8700; stroke-width:4"
+        d="M4 60H60L32 4L4 60z"
+  />
+  <path style="fill:#ffffff"
+        d="M32 47C29.79 47 28 48.56 28 50.5C28 52.43 29.79 54 32 54C34.2 54 36 52.43 36 50.5C36 48.56 34.2 47 32 47z
+           M37 24L34 42V45H30V42L27 24H37z"
+  />
+ </g>
+</svg>

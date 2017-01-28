@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#f4f4f4"
+        d="M55.99 8H7.99L31.99 56L55.99 8z"
+  />
+  <path style="fill:none; stroke:#ff4135; stroke-width:8"
+        d="M55.99 8H7.99L31.99 56L55.99 8z"
+  />
+  <path style="fill:#010101"
+        d=""
+        transform="matrix(0.9444,0,0,0.9444,2,12.5594)"
+  />
+ </g>
+</svg>

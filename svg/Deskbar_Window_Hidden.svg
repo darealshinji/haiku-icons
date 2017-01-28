@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#989898"
+        d="M0 0V12H32V0H0z"
+  />
+  <path style="fill:#c8c8c8"
+        d="M0 12V56H52V12H0z"
+  />
+  <path style="fill:#787878"
+        d="M4 52V4H32V12H52V8H36V0H0V52H4z"
+  />
+  <path style="fill:#000000"
+        d="M0 56H52V12H48V52H0V56z"
+  />
+  <path style="fill:#000000"
+        d="M32 4V8H36V4H32z"
+  />
+ </g>
+</svg>
