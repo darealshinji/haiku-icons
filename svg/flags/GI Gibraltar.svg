@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#ffffff"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(1.0322,0,0,0.6956,-1.0322,1.7391)"
+  />
+  <path style="fill:#da000c"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(1.0322,0,0,0.3478,-1.0322,36.8695)"
+  />
+  <path style="fill:none; stroke:#7e7e7e; stroke-width:1"
+        d="M1 9H63V55H1V9z"
+  />
+  <path style="fill:#da000c"
+        d="M26 38L28 37V27L30 29V25L28 21L31 23V22H33V23L36 21L34 25V29L36 27V37L38 38H26z"
+        transform="matrix(1,0,0,1,0,1)"
+  />
+  <path style="fill:#da000c"
+        d="M26 38L28 37V27L30 29V25L28 21L31 23V22H33V23L36 21L34 25V29L36 27V37L38 38H26z"
+        transform="matrix(0.8823,0,0,0.8823,-3.2352,4.4705)"
+  />
+  <path style="fill:#da000c"
+        d="M26 38L28 37V27L30 29V25L28 21L31 23V22H33V23L36 21L34 25V29L36 27V37L38 38H26z"
+        transform="matrix(0.8823,0,0,0.8823,10.7647,4.4705)"
+  />
+  <path style="fill:#000000"
+        d="M30 37H34V34C34 34 32 30 30 34C30 36 30 37 30 37z"
+        transform="matrix(1,0,0,1.2077,0,-6.6883)"
+  />
+  <path style="fill:#000000"
+        d="M30 37H34V34C34 34 32 30 30 34C30 36 30 37 30 37z"
+        transform="matrix(1,0,0,1,-7,0)"
+  />
+  <path style="fill:#000000"
+        d="M30 37H34V34C34 34 32 30 30 34C30 36 30 37 30 37z"
+        transform="matrix(1,0,0,1,7,0)"
+  />
+  <path style="fill:#000000"
+        d="M30 37H34V34C34 34 32 30 30 34C30 36 30 37 30 37z"
+        transform="matrix(0.5,0,0,0.7077,16,3.8116)"
+  />
+  <path style="fill:#000000"
+        d="M30 37H34V34C34 34 32 30 30 34C30 36 30 37 30 37z"
+        transform="matrix(0.5,0,0,0.5,23,11.5)"
+  />
+  <path style="fill:#000000"
+        d="M30 37H34V34C34 34 32 30 30 34C30 36 30 37 30 37z"
+        transform="matrix(0.5,0,0,0.5,9,11.5)"
+  />
+  <path style="fill:#f8d80e"
+        d="M30 38L32 41L29 43L32 45V50H30L32 52L30 53H34L33 45L36 43L33 41L34 38"
+  />
+ </g>
+</svg>

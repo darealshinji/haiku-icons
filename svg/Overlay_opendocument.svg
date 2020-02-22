@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:none; stroke:#010000; stroke-width:2"
+        d="M31 24V14"
+  />
+  <path style="fill:none; stroke:#010000; stroke-width:4; stroke-linejoin:round"
+        d="M30 16V2C30 2 36 4 41 4C45 4 53 2 58 2V16C53 16 45 18 41 18C36 18 30 16 30 16z"
+  />
+  <radialGradient id="gradient0" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="64">
+   <stop offset="0.2974" stop-color="#e3f8ff"/>
+   <stop offset="1" stop-color="#057ebd"/>
+  </radialGradient>
+  <path style="fill:url(#gradient0)"
+        d="M30 16V2C30 2 36 4 41 4C45 4 53 2 58 2V16C53 16 45 18 41 18C36 18 30 16 30 16z"
+  />
+  <path style="fill:#ffffff"
+        d="M44 6C44 6 44 3 41 7C40.17 8.09 40 10 40 10C40 10.5 40.12 12.12 41 13C41.87 13.87 43.5 14 44 14C44 14 44 17 47 13C47.85 11.85 48 10 48 10C48 9.5 48 8 47 7C46 6 44.5 6 44 6z"
+        transform="matrix(1.5,0,0,1.375,-22.0015,-3.25)"
+  />
+  <radialGradient id="gradient1" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="64">
+   <stop offset="0.2974" stop-color="#e3f8ff"/>
+   <stop offset="1" stop-color="#057ebd"/>
+  </radialGradient>
+  <path style="fill:url(#gradient1)"
+        d="M44 7C34 6 40 1 41 10C41.22 11.98 42.02 12.71 44 13C51 14 49 20 47 10C46.8 9.01 46.98 7.29 44 7z"
+  />
+ </g>
+</svg>

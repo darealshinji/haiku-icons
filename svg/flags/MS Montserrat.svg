@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#07286b"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(1.0322,0,0,1.0434,-1.0322,-1.3913)"
+  />
+  <linearGradient id="gradient0" gradientUnits="userSpaceOnUse" x1="89" y1="8" x2="89" y2="56">
+   <stop offset="0.592" stop-color="#00a2bd"/>
+   <stop offset="0.5989" stop-color="#a53d08"/>
+  </linearGradient>
+  <path style="fill:url(#gradient0)"
+        d="M38 22C38 45 39 45 48 48C58 45 59 45 59 22C56 22 42 22 38 22z"
+  />
+  <path style="fill:#ffffff"
+        d="M64 12V17L10 52H0V47L54 12H64z
+           M0 12H8L64 46V52H56L0 18V12z"
+        transform="matrix(0.5,0,0,0.5749,0,1.1)"
+  />
+  <path style="fill:#cc0000"
+        d="M64 12L7 52H0L57 12H64z
+           M0 12L64 48V52L0 16V12z"
+        transform="matrix(0.5,0,0,0.5749,0,1.1)"
+  />
+  <path style="fill:#ffffff"
+        d="M0 26H26V12H38V26H64V38H38V52H26V38H0V26z"
+        transform="matrix(0.5,0,0,0.5749,0,1.1)"
+  />
+  <path style="fill:#cc0000"
+        d="M0 36V28H28V12H36V28H64V36H36V52H28V36H0z"
+        transform="matrix(0.5,0,0,0.5749,0,1.1)"
+  />
+  <path style="fill:none; stroke:#7e7e7e; stroke-width:1"
+        d="M1 9H63V55H1V9z"
+  />
+  <path style="fill:#a53d08"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(0.1612,0,0,0.0434,43.8387,25.6086)"
+  />
+  <path style="fill:#a53d08"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(0.0322,0,0,0.3913,47.9677,19.4782)"
+  />
+  <path style="fill:none; stroke:#ff9a06; stroke-width:1"
+        d="M48 35L44 38C44 38 47 42 48 42C50.82 37.75 48 35 48 35z"
+  />
+  <path style="fill:#008021"
+        d="M52 28C52 28 52 32 53 33C54 34 52 39 53 42C54 45 48 42 48 42C48 42 51 31 50 30C49 29 50 28 50 28H52z"
+  />
+  <path style="fill:#ffe1cf"
+        d="M53 29V33L47 36L52 32L53 29z
+           M47 28L46 32H48V31V28H47z"
+        transform="matrix(1,0,0,1,0,-1)"
+  />
+  <path style="fill:#ffe1cf"
+        d="M47 28L46 32H48V31V28H47z"
+        transform="matrix(1,0,0,0.5,4,13)"
+  />
+ </g>
+</svg>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#ffffff"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(1.0322,0,0,1.0434,-1.0322,-1.3913)"
+  />
+  <path style="fill:none; stroke:#7e7e7e; stroke-width:1"
+        d="M1 9H63V55H1V9z"
+  />
+  <path style="fill:#00cede"
+        d="M38 43L39 41H41L47 34L46 33L50 32L49 36L48 35L42 42V43L40 45L38 43z"
+        transform="matrix(1,0,0,1,2,1)"
+  />
+  <path style="fill:#00cede"
+        d="M38 43L39 41H41L47 34L46 33L50 32L49 36L48 35L42 42V43L40 45L38 43z"
+        transform="matrix(0.8096,0.5446,-0.4077,0.7898,24.6782,-13.6999)"
+  />
+  <path style="fill:#00cede"
+        d="M38 43L39 41H41L47 34L46 33L50 32L49 36L48 35L42 42V43L40 45L38 43z"
+        transform="matrix(0.9025,-0.4305,0.4305,0.9025,-11.2882,24.6924)"
+  />
+  <path style="fill:none; stroke:#178400; stroke-width:1"
+        d="M25 43L21 39H18L21 36L16 37L19 35L15 36L18 34H14L18 33H14L17 32H13L16 31H13L16 30H13L15 29H13L14 28H13"
+        transform="matrix(1,0,0,1,2,1)"
+  />
+  <path style="fill:#ffd600"
+        d="M26 32C26 32 7 26 9 20C11 19 29 20 24 23C19.71 25.57 26 27 27 27C28 27 26 32 26 32z
+           M28 25C28 25 31 21 31 20C30 20 28 20 27 21C24 18 29 17 29 17C29 17 33 11 35 19C36.47 24.9 38 25 38 25H28z
+           M26 33C26 33 22 37 23 38C23 39 21 40 21 41C21 42 25 40 25 40V38C25 38 28 38 28 36C29 35 29 34 29 34L26 33z
+           M30 36V37C30 37 27 39 27 40C27 41 30 45 32 45C34 45 38 41 38 40C38 39 35 37 35 37V36H30z"
+        transform="matrix(1,0,0,1,2,1)"
+  />
+  <path style="fill:#ffd600"
+        d="M26 32C26 32 7 26 9 20C11 19 29 20 24 23C19.71 25.57 26 27 27 27C28 27 26 32 26 32z
+           M26 33C26 33 22 37 23 38C23 39 21 40 21 41C21 42 25 40 25 40V38C25 38 28 38 28 36C29 35 29 34 29 34L26 33z"
+        transform="matrix(-0.9335,0,0,1,64.7492,1)"
+  />
+  <linearGradient id="gradient0" gradientUnits="userSpaceOnUse" x1="56.99" y1="18" x2="56.99" y2="46">
+   <stop offset="0.4288" stop-color="#002768"/>
+   <stop offset="0.4306" stop-color="#ffffff"/>
+  </linearGradient>
+  <path style="fill:url(#gradient0)"
+        d="M32 23C32 23 29 26 26 24C26 24 19.83 31.91 32 38C45 32 39 24 39 24C36 26 32 23 32 23z"
+        transform="matrix(1,0,0,1,2,1)"
+  />
+  <path style="fill:#be0a2f"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(0.0161,0,0,0.1304,27.9838,29.826)"
+  />
+  <path style="fill:#be0a2f"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(0.0161,0,0,0.1521,29.9838,29.6304)"
+  />
+  <path style="fill:#be0a2f"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(0.0161,0,0,0.1739,31.9838,29.4347)"
+  />
+  <path style="fill:#be0a2f"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(0.0161,0,0,0.1956,33.9838,29.2391)"
+  />
+  <path style="fill:#be0a2f"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(-0.0161,0,0,0.1304,41.0161,29.826)"
+  />
+  <path style="fill:#be0a2f"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(-0.0161,0,0,0.1521,39.0161,29.6304)"
+  />
+  <path style="fill:#be0a2f"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(-0.0161,0,0,0.1739,37.0161,29.4347)"
+  />
+  <path style="fill:#00cede"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(0.0262,-0.0223,0.0924,0.1856,3.2019,25.7752)"
+  />
+  <path style="fill:#00cede"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(-0.0197,-0.021,-0.0786,0.1883,13.1515,25.6462)"
+  />
+  <path style="fill:#00cede"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(0.0322,0,0,0.2152,55.9677,24.1114)"
+  />
+ </g>
+</svg>

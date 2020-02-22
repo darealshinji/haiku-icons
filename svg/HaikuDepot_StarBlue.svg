@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#00aaff"
+        d="M32 2L26 24H1L21 35L12 58L32 41L52 58L43 35L63 24H38L32 2z"
+  />
+ </g>
+</svg>

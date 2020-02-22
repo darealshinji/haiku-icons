@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#ffffff"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(1.0322,0,0,0.3478,-1.0322,4.8695)"
+  />
+  <path style="fill:#0b4ea2"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(1.0322,0,0,0.3478,-1.0322,20.8695)"
+  />
+  <path style="fill:#ee1b24"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(1.0322,0,0,0.3478,-1.0322,36.8695)"
+  />
+  <path style="fill:none; stroke:#7e7e7e; stroke-width:1"
+        d="M1 9H63V55H1V9z"
+  />
+  <path style="fill:#ffffff"
+        d="M20 21V36C20 36 22 42 28 44C34 42 36 36 36 36V21H20z"
+        transform="matrix(0.885,0,0,0.885,2.3103,3.2413)"
+  />
+  <linearGradient id="gradient0" gradientUnits="userSpaceOnUse" x1="128" y1="22" x2="128" y2="49.99">
+   <stop offset="0.4428" stop-color="#ee1b24"/>
+   <stop offset="0.4428" stop-color="#0b4ea2"/>
+  </linearGradient>
+  <path style="fill:url(#gradient0)"
+        d="M20 21V36C20 36 22 42 28 44C34 42 36 36 36 36V21H20z"
+        transform="matrix(0.885,0,0,0.885,2.3103,3.2413)"
+  />
+  <path style="fill:none; stroke:#ffffff; stroke-width:2"
+        d="M28 22V34"
+        transform="matrix(0.885,0,0,0.885,2.3103,3.2413)"
+  />
+  <path style="fill:none; stroke:#ffffff; stroke-width:2"
+        d="M28 22V34"
+        transform="matrix(0,-0.885,0.7375,0,6.4405,51.0345)"
+  />
+  <path style="fill:none; stroke:#ffffff; stroke-width:2"
+        d="M28 22V34"
+        transform="matrix(0,-0.885,0.885,0,2.3103,55.4597)"
+  />
+ </g>
+</svg>

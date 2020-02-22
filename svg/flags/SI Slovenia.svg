@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#ffffff"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(1.0322,0,0,0.3478,-1.0322,4.8695)"
+  />
+  <path style="fill:#0b4ea2"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(1.0322,0,0,0.3478,-1.0322,20.8695)"
+  />
+  <path style="fill:#ee1b24"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(1.0322,0,0,0.3478,-1.0322,36.8695)"
+  />
+  <path style="fill:none; stroke:#7e7e7e; stroke-width:1"
+        d="M1 9H63V55H1V9z"
+  />
+  <path style="fill:#0b4ea2"
+        d="M20 21V36C20 36 22 42 28 44C34 42 36 36 36 36V21H20z"
+        transform="matrix(0.885,0,0,0.885,-3.6896,-1.7586)"
+  />
+  <path style="fill:#ffffff"
+        d="M24 31L20 36C20 36 22 42 28 44C34 42 36 36 36 36L32 31L30 33L27.75 28C27.75 28 25.96 33 26 33C26.12 33 24 31 24 31z"
+        transform="matrix(0.885,0,0,0.885,-3.6896,-1.7586)"
+  />
+  <path style="fill:none; stroke:#0b4ea2; stroke-width:1"
+        d="M16 32C16 32 18 34 20 32C21 31 23 32 23 32C23 32 24 34 26 32"
+  />
+ </g>
+</svg>

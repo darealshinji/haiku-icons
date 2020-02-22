@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#ed2938"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(1.0322,0,0,0.5217,-1.0322,3.3043)"
+  />
+  <path style="fill:#002295"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(1.0322,0,0,0.5217,-1.0322,27.3043)"
+  />
+  <path style="fill:#ffffff"
+        d="M0 64L44 32L0 -0V64z"
+        transform="matrix(0.625,0,0,0.75,0,7.9999)"
+  />
+  <path style="fill:none; stroke:#7e7e7e; stroke-width:1"
+        d="M1 9H63V55H1V9z"
+  />
+  <path style="fill:none; stroke:#ed2938; stroke-width:2"
+        d="M5 25H15C15 25 14 30 15 32C16 34 10 33 10 34C10 33 4 34 5 32C6 30 5 25 5 25z"
+  />
+  <path style="fill:#80cfe1"
+        d="M5 25H15C15 25 14 30 15 32C16 34 10 33 10 34C10 33 4 34 5 32C6 30 5 25 5 25z"
+        transform="matrix(0.8051,0,0,0.8888,1.5585,2.7777)"
+  />
+  <path style="fill:#ffffff"
+        d="M7 32V28L9 27L10.02 26L11 27L13 28V32H7z"
+  />
+  <path style="fill:none; stroke:#ffff00; stroke-width:2"
+        d="M3 32C3 32 0 38 10 38C20 38 17 32 17 32
+           M7 23C7 23 9 20 12 23H7z"
+  />
+ </g>
+</svg>

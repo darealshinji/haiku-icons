@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#1eb53a"
+        d="M0 8V56L64 8H0z"
+  />
+  <path style="fill:#00a3dd"
+        d="M0 8V56L64 8H0z"
+        transform="matrix(-1,-0,0,-1,64,64)"
+  />
+  <path style="fill:#fcd116"
+        d="M48 8L0 44V48L52 8H48z"
+  />
+  <path style="fill:#fcd116"
+        d="M48 8L0 44V48L52 8H48z"
+        transform="matrix(-1,-0,0,-1,64,64)"
+  />
+  <path style="fill:#000000"
+        d="M51 8L0 47V56H13L64 17V8H51z"
+  />
+  <path style="fill:none; stroke:#7e7e7e; stroke-width:1"
+        d="M1 9H63V55H1V9z"
+  />
+ </g>
+</svg>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#ffffff"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(1.0322,0,0,1.0434,-1.0322,-1.3913)"
+  />
+  <path style="fill:#c60c2f"
+        d="M67.19 31.99C67.19 42.6 58.6 51.19 47.99 51.19C37.39 51.19 28.8 42.6 28.8 31.99C28.8 21.39 37.39 12.79 47.99 12.79C58.6 12.79 67.19 21.39 67.19 31.99z"
+        transform="matrix(0.6364,-0,0,0.6364,1.437,11.6531)"
+  />
+  <path style="fill:#003478"
+        d="M67.19 31.99C67 45 58.6 51.19 47.99 51.19C37.39 51.19 28.8 38.99 29 30C30.19 35 38.44 47.28 48 32C52 21 65 19 67.19 31.99z"
+        transform="matrix(0.6389,0,0,0.6959,1.3716,9.5324)"
+  />
+  <path style="fill:none; stroke:#7e7e7e; stroke-width:1"
+        d="M1 9H63V55H1V9z"
+  />
+  <path style="fill:none; stroke:#010101; stroke-width:2"
+        d="M5 11H17"
+        transform="matrix(0.7288,-0.6846,0.6846,0.7288,2.4512,19.5141)"
+  />
+  <path style="fill:none; stroke:#010101; stroke-width:2"
+        d="M5 11H17"
+        transform="matrix(0.7288,-0.6846,0.6846,0.7288,0.4512,17.5141)"
+  />
+  <path style="fill:none; stroke:#010101; stroke-width:2"
+        d="M5 11H17"
+        transform="matrix(0.7288,-0.6846,0.6846,0.7288,-1.5487,15.5141)"
+  />
+  <path style="fill:none; stroke:#010101; stroke-width:2"
+        d="M5 11H17"
+        transform="matrix(0.7288,-0.6846,0.6846,0.7288,35.4512,47.514)"
+  />
+  <path style="fill:none; stroke:#010101; stroke-width:2"
+        d="M5 11H17"
+        transform="matrix(0.7288,-0.6846,0.6846,0.7288,33.4512,45.514)"
+  />
+  <path style="fill:none; stroke:#010101; stroke-width:2"
+        d="M5 11H17"
+        transform="matrix(0.7288,-0.6846,0.6846,0.7288,31.4512,43.514)"
+  />
+  <path style="fill:none; stroke:#010101; stroke-width:2"
+        d="M5 11H17"
+        transform="matrix(-0.6846,-0.7288,0.7288,-0.6846,17.514,59.5487)"
+  />
+  <path style="fill:none; stroke:#010101; stroke-width:2"
+        d="M5 11H17"
+        transform="matrix(-0.6846,-0.7288,0.7288,-0.6846,15.5141,61.5487)"
+  />
+  <path style="fill:none; stroke:#010101; stroke-width:2"
+        d="M5 11H17"
+        transform="matrix(-0.6846,-0.7288,0.7288,-0.6846,13.5141,63.5487)"
+  />
+  <path style="fill:none; stroke:#010101; stroke-width:2"
+        d="M5 11H17"
+        transform="matrix(-0.6846,-0.7288,0.7288,-0.6846,50.514,31.5487)"
+  />
+  <path style="fill:none; stroke:#010101; stroke-width:2"
+        d="M5 11H17"
+        transform="matrix(-0.6846,-0.7288,0.7288,-0.6846,48.514,33.5487)"
+  />
+  <path style="fill:none; stroke:#010101; stroke-width:2"
+        d="M5 11H17"
+        transform="matrix(-0.6846,-0.7288,0.7288,-0.6846,46.514,35.5487)"
+  />
+ </g>
+</svg>

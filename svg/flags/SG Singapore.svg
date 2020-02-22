@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#ed2938"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(1.0322,0,0,0.5217,-1.0322,3.3043)"
+  />
+  <path style="fill:#ffffff"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(1.0322,0,0,0.5217,-1.0322,27.3043)"
+  />
+  <path style="fill:#ffffff"
+        d="M70.39 32C70.39 26.69 66.1 22.4 60.79 22.4C55.49 22.4 51.19 26.69 51.19 32C51.19 37.3 55.49 41.6 60.79 41.6C66.1 41.6 70.39 37.3 70.39 32z"
+        transform="matrix(0.9582,0,0,0.9582,-44.8639,-9.7696)"
+  />
+  <path style="fill:#ed2938"
+        d="M70.93 32C70.93 27.58 67.35 24 62.93 24C58.51 24 54.93 27.58 54.93 32C54.93 36.41 58.51 40 62.93 40C67.35 40 70.93 36.41 70.93 32z"
+        transform="matrix(1.0709,0,0,1.0709,-50.9002,-13.2779)"
+  />
+  <path style="fill:#ffffff"
+        d="M38.87 29.03H45.84L48 22.4L50.15 29.03H57.12L51.48 33.13L53.64 39.76L48 35.66L42.35 39.76L44.51 33.13L38.87 29.03z"
+        transform="matrix(0.288,0,0,0.288,4.6755,7.3125)"
+  />
+  <path style="fill:#ffffff"
+        d="M38.87 29.03H45.84L48 22.4L50.15 29.03H57.12L51.48 33.13L53.64 39.76L48 35.66L42.35 39.76L44.51 33.13L38.87 29.03z"
+        transform="matrix(0.288,0,0,0.288,-0.3244,11.3125)"
+  />
+  <path style="fill:#ffffff"
+        d="M38.87 29.03H45.84L48 22.4L50.15 29.03H57.12L51.48 33.13L53.64 39.76L48 35.66L42.35 39.76L44.51 33.13L38.87 29.03z"
+        transform="matrix(0.288,0,0,0.288,9.6755,11.3125)"
+  />
+  <path style="fill:#ffffff"
+        d="M38.87 29.03H45.84L48 22.4L50.15 29.03H57.12L51.48 33.13L53.64 39.76L48 35.66L42.35 39.76L44.51 33.13L38.87 29.03z"
+        transform="matrix(0.288,0,0,0.288,1.6755,16.3125)"
+  />
+  <path style="fill:#ffffff"
+        d="M38.87 29.03H45.84L48 22.4L50.15 29.03H57.12L51.48 33.13L53.64 39.76L48 35.66L42.35 39.76L44.51 33.13L38.87 29.03z"
+        transform="matrix(0.288,0,0,0.288,7.6755,16.3125)"
+  />
+  <path style="fill:none; stroke:#7e7e7e; stroke-width:1"
+        d="M1 9H63V55H1V9z"
+  />
+ </g>
+</svg>

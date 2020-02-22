@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#3d5db9"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(1.0322,0,0,1.0434,-1.0322,-1.3913)"
+  />
+  <path style="fill:#ffd900"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(1.0322,0,0,0.5217,-1.0322,15.3043)"
+  />
+  <path style="fill:#b10b0b"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(1.0322,0,0,0.3478,-1.0322,20.8695)"
+  />
+  <path style="fill:none; stroke:#7e7e7e; stroke-width:1"
+        d="M1 9H63V55H1V9z"
+  />
+  <path style="fill:#ffd900"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(0.6129,0,0,0.0217,13.387,27.8043)"
+  />
+  <path style="fill:#ffd900"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(0.6129,0,0,0.0217,11.387,29.8043)"
+  />
+  <path style="fill:#ffd900"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(0.758,0,0,0.0217,8.2419,31.8043)"
+  />
+  <linearGradient id="gradient0" gradientUnits="userSpaceOnUse" x1="11.81" y1="2.51" x2="57.38" y2="8.81">
+   <stop offset="0.4387" stop-color="#010000"/>
+   <stop offset="0.6" stop-color="#ffffff"/>
+  </linearGradient>
+  <path style="fill:url(#gradient0)"
+        d="M32 24C23.16 24 16 32 16 32C16 32 23.16 40 32 40C40.83 40 48 32 48 32C48 32 40.83 24 32 24z"
+        transform="matrix(0.75,0,0,0.75,8,8)"
+  />
+  <path style="fill:#7e7e7e"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(0.1935,0,0,0.0434,25.8064,28.6086)"
+  />
+  <path style="fill:#7e7e7e"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(0.1935,0,0,0.0434,25.8064,32.6086)"
+  />
+  <path style="fill:#3d5da7"
+        d="M52 32C52 32 47 33 52 37C57 33 52 32 52 32z"
+  />
+  <path style="fill:#3d5da7"
+        d="M52 32C52 32 47 33 52 37C57 33 52 32 52 32z"
+        transform="matrix(0.8836,-0.4682,0.4682,0.8836,-49.1015,29.3638)"
+  />
+  <path style="fill:#3d5da7"
+        d="M52 32C52 32 47 33 52 37C57 33 52 32 52 32z"
+        transform="matrix(0.4985,-0.8668,0.8668,0.4985,-25.8205,58.2319)"
+  />
+  <path style="fill:#ffffff"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(0.0279,0.0147,-0.0271,0.0224,53.7796,27.5532)"
+  />
+  <path style="fill:#ffffff"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(0.0279,0.0147,-0.0271,0.0224,50.7796,29.5532)"
+  />
+ </g>
+</svg>

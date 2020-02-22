@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#ffffff"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(0.3225,0,0,1.0434,-0.3225,-1.3913)"
+  />
+  <path style="fill:#006600"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(0.7096,0,0,1.0434,19.2903,-1.3913)"
+  />
+  <path style="fill:#ffffff"
+        d="M70.39 32C70.39 26.69 66.1 22.4 60.79 22.4C55.49 22.4 51.19 26.69 51.19 32C51.19 37.3 55.49 41.6 60.79 41.6C66.1 41.6 70.39 37.3 70.39 32z"
+        transform="matrix(1.0272,-0.6065,0.6065,1.0272,-40.6846,36.0845)"
+  />
+  <path style="fill:#006600"
+        d="M70.39 32C70.39 26.69 66.1 22.4 60.79 22.4C55.49 22.4 51.19 26.69 51.19 32C51.19 37.3 55.49 41.6 60.79 41.6C66.1 41.6 70.39 37.3 70.39 32z"
+        transform="matrix(0.8568,-0.5058,0.5058,0.8568,-23.2541,31.9866)"
+  />
+  <path style="fill:#ffffff"
+        d="M38.87 29.03H45.84L48 22.4L50.15 29.03H57.12L51.48 33.13L53.64 39.76L48 35.66L42.35 39.76L44.51 33.13L38.87 29.03z"
+        transform="matrix(0.3906,-0.5953,0.5953,0.3906,14.0799,40.698)"
+  />
+  <path style="fill:none; stroke:#7e7e7e; stroke-width:1"
+        d="M1 9H63V55H1V9z"
+  />
+ </g>
+</svg>

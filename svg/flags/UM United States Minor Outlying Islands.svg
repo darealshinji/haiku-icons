@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#ff0505"
+        d="M1 9H63V51H1V9z"
+        transform="matrix(1.0322,0,0,1.0476,-1.0322,-1.4285)"
+  />
+  <path style="fill:#ffffff"
+        d="M1 9H63V51H1V9z"
+        transform="matrix(1.0322,0,0,0.0952,-1.0322,11.1428)"
+  />
+  <path style="fill:#ffffff"
+        d="M1 9H63V51H1V9z"
+        transform="matrix(1.0322,0,0,0.0952,-1.0322,19.1428)"
+  />
+  <path style="fill:#ffffff"
+        d="M1 9H63V51H1V9z"
+        transform="matrix(1.0322,0,0,0.0952,-1.0322,27.1428)"
+  />
+  <path style="fill:#ffffff"
+        d="M1 9H63V51H1V9z"
+        transform="matrix(1.0322,0,0,0.0952,-1.0322,35.1428)"
+  />
+  <path style="fill:#ffffff"
+        d="M1 9H63V51H1V9z"
+        transform="matrix(1.0322,0,0,0.0952,-1.0322,43.1428)"
+  />
+  <path style="fill:#0000ff"
+        d="M1 9H63V51H1V9z"
+        transform="matrix(0.5161,0,0,0.5714,-0.5161,2.8571)"
+  />
+  <path style="fill:none; stroke:#ffffff; stroke-width:3"
+        d="M2 11L3 13"
+        transform="matrix(1,0,0,1,2,0)"
+  />
+  <path style="fill:none; stroke:#ffffff; stroke-width:3"
+        d="M2 11L3 13"
+        transform="matrix(1,0,0,1,2,5)"
+  />
+  <path style="fill:none; stroke:#ffffff; stroke-width:3"
+        d="M2 11L3 13"
+        transform="matrix(1,0,0,1,2,10)"
+  />
+  <path style="fill:none; stroke:#ffffff; stroke-width:3"
+        d="M2 11L3 13"
+        transform="matrix(1,0,0,1,2,15)"
+  />
+  <path style="fill:none; stroke:#ffffff; stroke-width:3"
+        d="M2 11L3 13"
+        transform="matrix(1,0,0,1,8,2)"
+  />
+  <path style="fill:none; stroke:#ffffff; stroke-width:3"
+        d="M2 11L3 13"
+        transform="matrix(1,0,0,1,8,7)"
+  />
+  <path style="fill:none; stroke:#ffffff; stroke-width:3"
+        d="M2 11L3 13"
+        transform="matrix(1,0,0,1,8,12)"
+  />
+  <path style="fill:none; stroke:#ffffff; stroke-width:3"
+        d="M2 11L3 13"
+        transform="matrix(1,0,0,1,8,17)"
+  />
+  <path style="fill:none; stroke:#ffffff; stroke-width:3"
+        d="M2 11L3 13"
+        transform="matrix(1,0,0,1,14,5)"
+  />
+  <path style="fill:none; stroke:#ffffff; stroke-width:3"
+        d="M2 11L3 13"
+        transform="matrix(1,0,0,1,14,10)"
+  />
+  <path style="fill:none; stroke:#ffffff; stroke-width:3"
+        d="M2 11L3 13"
+        transform="matrix(1,0,0,1,14,15)"
+  />
+  <path style="fill:none; stroke:#ffffff; stroke-width:3"
+        d="M2 11L3 13"
+        transform="matrix(1,0,0,1,20,2)"
+  />
+  <path style="fill:none; stroke:#ffffff; stroke-width:3"
+        d="M2 11L3 13"
+        transform="matrix(1,0,0,1,20,7)"
+  />
+  <path style="fill:none; stroke:#ffffff; stroke-width:3"
+        d="M2 11L3 13"
+        transform="matrix(1,0,0,1,20,12)"
+  />
+  <path style="fill:none; stroke:#ffffff; stroke-width:3"
+        d="M2 11L3 13"
+        transform="matrix(1,0,0,1,20,17)"
+  />
+  <path style="fill:none; stroke:#ffffff; stroke-width:3"
+        d="M2 11L3 13"
+        transform="matrix(1,0,0,1,14,0)"
+  />
+  <path style="fill:none; stroke:#ffffff; stroke-width:3"
+        d="M2 11L3 13"
+        transform="matrix(1,0,0,1,26,5)"
+  />
+  <path style="fill:none; stroke:#ffffff; stroke-width:3"
+        d="M2 11L3 13"
+        transform="matrix(1,0,0,1,26,10)"
+  />
+  <path style="fill:none; stroke:#ffffff; stroke-width:3"
+        d="M2 11L3 13"
+        transform="matrix(1,0,0,1,26,15)"
+  />
+  <path style="fill:none; stroke:#ffffff; stroke-width:3"
+        d="M2 11L3 13"
+        transform="matrix(1,0,0,1,26,0)"
+  />
+  <path style="fill:none; stroke:#7e7e7e; stroke-width:1"
+        d="M1 9H63V51H1V9z"
+  />
+ </g>
+</svg>

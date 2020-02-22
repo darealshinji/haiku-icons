@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#00a0de"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(1.0322,0,0,0.4347,-1.0322,4.0869)"
+  />
+  <path style="fill:#fad201"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(1.0322,0,0,0.326,-1.0322,24.0652)"
+  />
+  <path style="fill:#20603d"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(1.0322,0,0,0.3043,-1.0322,39.2608)"
+  />
+  <path style="fill:none; stroke:#7e7e7e; stroke-width:1"
+        d="M1 9H63V55H1V9z"
+  />
+  <path style="fill:#fad201"
+        d="M36.78 29.48L46 31L48 21.33L50 31L59.21 29.48L50 34L54.93 42.66L48 36L41.06 42.66L46 34L36.78 29.48z"
+        transform="matrix(0.5987,0,0,0.5987,20.7604,-1.6841)"
+  />
+  <path style="fill:#fad201"
+        d="M36.78 29.48L46 31L48 21.33L50 31L59.21 29.48L50 34L54.93 42.66L48 36L41.06 42.66L46 34L36.78 29.48z"
+        transform="matrix(0.5346,-0.2695,0.2695,0.5346,15.2121,13.3044)"
+  />
+  <path style="fill:#fad201"
+        d="M36.78 29.48L46 31L48 21.33L50 31L59.21 29.48L50 34L54.93 42.66L48 36L41.06 42.66L46 34L36.78 29.48z"
+        transform="matrix(0.3845,-0.4589,0.4589,0.3845,15.9831,27.2563)"
+  />
+ </g>
+</svg>

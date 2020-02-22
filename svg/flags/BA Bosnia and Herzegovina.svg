@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#002295"
+        d="M1 9V55H63V9H1z"
+        transform="matrix(1.0322,0,0,1.0434,-1.0322,-1.3913)"
+  />
+  <path style="fill:#fecb00"
+        d="M56 8V56L16 8"
+  />
+  <path style="fill:#ffffff"
+        d="M21.78 28.48H30.35L33 20.33L35.64 28.48H44.21L37.28 33.51L39.93 41.66L33 36.63L26.06 41.66L28.71 33.51L21.78 28.48z"
+        transform="matrix(0.4374,0,0,0.4374,-3.129,0.4375)"
+  />
+  <path style="fill:#ffffff"
+        d="M21.78 28.48H30.35L33 20.33L35.64 28.48H44.21L37.28 33.51L39.93 41.66L33 36.63L26.06 41.66L28.71 33.51L21.78 28.48z"
+        transform="matrix(0.4374,0,0,0.4374,4.8709,9.4375)"
+  />
+  <path style="fill:#ffffff"
+        d="M21.78 28.48H30.35L33 20.33L35.64 28.48H44.21L37.28 33.51L39.93 41.66L33 36.63L26.06 41.66L28.71 33.51L21.78 28.48z"
+        transform="matrix(0.4374,0,0,0.4374,11.8709,18.4375)"
+  />
+  <path style="fill:#ffffff"
+        d="M21.78 28.48H30.35L33 20.33L35.64 28.48H44.21L37.28 33.51L39.93 41.66L33 36.63L26.06 41.66L28.71 33.51L21.78 28.48z"
+        transform="matrix(0.4374,0,0,0.4374,19.8709,27.4375)"
+  />
+  <path style="fill:#ffffff"
+        d="M21.78 28.48H30.35L33 20.33L35.64 28.48H44.21L37.28 33.51L39.93 41.66L33 36.63L26.06 41.66L28.71 33.51L21.78 28.48z"
+        transform="matrix(0.4374,0,0,0.4374,27.8709,36.4375)"
+  />
+  <path style="fill:none; stroke:#7e7e7e; stroke-width:1"
+        d="M1 9V55H63V9H1z"
+  />
+ </g>
+</svg>

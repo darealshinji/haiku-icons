@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#0070bc"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(1.0322,0,0,1.0434,-1.0322,-1.3913)"
+  />
+  <path style="fill:none; stroke:#ffffff; stroke-width:5"
+        d="M32 16C23.16 16 16 23.16 16 32C16 40.83 23.16 48 32 48C40.83 48 48 40.83 48 32C48 23.16 40.83 16 32 16z"
+        transform="matrix(1.054,0,0,1.054,-1.7296,-2.7296)"
+  />
+  <radialGradient id="gradient0" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="64" gradientTransform="matrix(0.5892,0.5902,-0.5436,0.5426,29.0402,4.7451)">
+   <stop offset="0" stop-color="#ffffff"/>
+   <stop offset="0.1694" stop-color="#ffd200"/>
+   <stop offset="0.3067" stop-color="#de2010"/>
+   <stop offset="0.4847" stop-color="#ffd200"/>
+   <stop offset="0.6254" stop-color="#ff0000"/>
+   <stop offset="0.7203" stop-color="#ffd200"/>
+   <stop offset="0.861" stop-color="#ffffff"/>
+  </radialGradient>
+  <path style="fill:none; stroke:url(#gradient0); stroke-width:2"
+        d="M32 16C23.16 16 16 23.16 16 32C16 40.83 23.16 48 32 48C40.83 48 48 40.83 48 32C48 23.16 40.83 16 32 16z"
+        transform="matrix(1.054,0,0,1.054,-1.7296,-2.7296)"
+  />
+  <path style="fill:#7e7e7e"
+        d="M26 50L28 24C28 24 25 16 28 16C31 16 34 16 37 16C40 16 37 24 37 24L38 50C38 50 34.52 53.26 32 52C30 51 26 50 26 50z"
+        transform="matrix(1,0,0,0.9174,0,4.3211)"
+  />
+  <path style="fill:none; stroke:#010101; stroke-width:1.5"
+        d="M26 50L28 24C28 24 25 16 28 16C31 16 34 16 37 16C40 16 37 24 37 24L38 50C38 50 34.52 53.26 32 52C30 51 26 50 26 50z"
+        transform="matrix(1,0,0,0.9206,0,4.2101)"
+  />
+  <path style="fill:#ffffff"
+        d="M36.78 29.48H45.35L48 21.33L50.64 29.48H59.21L52.28 34.51L54.93 42.66L48 37.63L41.06 42.66L43.71 34.51L36.78 29.48z"
+        transform="matrix(1.0891,0,0,1.0891,-20.2801,-4.7556)"
+  />
+  <path style="fill:none; stroke:#7e7e7e; stroke-width:1"
+        d="M1 9H63V55H1V9z"
+  />
+ </g>
+</svg>

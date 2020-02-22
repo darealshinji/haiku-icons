@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#ffc61d"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(1.0322,0,0,0.2608,-1.0322,5.6521)"
+  />
+  <path style="fill:#ffffff"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(1.0322,0,0,0.2608,-1.0322,17.6521)"
+  />
+  <path style="fill:#ce1126"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(1.0322,0,0,0.2608,-1.0322,29.6521)"
+  />
+  <path style="fill:#3975c4"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(1.0322,0,0,0.2608,-1.0322,41.6521)"
+  />
+  <path style="fill:#3d8e33"
+        d="M0 8L32 32L0 56V8z"
+  />
+  <path style="fill:none; stroke:#7e7e7e; stroke-width:1"
+        d="M1 9H63V55H1V9z"
+  />
+  <path style="fill:#ffffff"
+        d="M70.39 32C70.39 26.69 66.1 22.4 60.79 22.4C55.49 22.4 51.19 26.69 51.19 32C51.19 37.3 55.49 41.6 60.79 41.6C66.1 41.6 70.39 37.3 70.39 32z"
+        transform="matrix(0.9325,0,0,0.9325,-45.5444,1.8076)"
+  />
+  <path style="fill:#3d8e33"
+        d="M70.39 32C70.39 26.69 66.1 22.4 60.79 22.4C55.49 22.4 51.19 26.69 51.19 32C51.19 37.3 55.49 41.6 60.79 41.6C66.1 41.6 70.39 37.3 70.39 32z"
+        transform="matrix(0.8906,0,0,0.9426,-40.2625,1.2438)"
+  />
+  <path style="fill:#ffffff"
+        d="M38.87 29.03H45.84L48 22.4L50.15 29.03H57.12L51.48 33.13L53.64 39.76L48 35.66L42.35 39.76L44.51 33.13L38.87 29.03z"
+        transform="matrix(0.2332,0,0,0.2332,2.8044,18.1754)"
+  />
+  <path style="fill:#ffffff"
+        d="M38.87 29.03H45.84L48 22.4L50.15 29.03H57.12L51.48 33.13L53.64 39.76L48 35.66L42.35 39.76L44.51 33.13L38.87 29.03z"
+        transform="matrix(0.2332,-0,0,0.2332,2.8044,22.1754)"
+  />
+  <path style="fill:#ffffff"
+        d="M38.87 29.03H45.84L48 22.4L50.15 29.03H57.12L51.48 33.13L53.64 39.76L48 35.66L42.35 39.76L44.51 33.13L38.87 29.03z"
+        transform="matrix(0.2332,-0,0,0.2332,2.8044,26.1754)"
+  />
+  <path style="fill:#ffffff"
+        d="M38.87 29.03H45.84L48 22.4L50.15 29.03H57.12L51.48 33.13L53.64 39.76L48 35.66L42.35 39.76L44.51 33.13L38.87 29.03z"
+        transform="matrix(0.2332,-0,0,0.2332,2.8044,30.1754)"
+  />
+ </g>
+</svg>

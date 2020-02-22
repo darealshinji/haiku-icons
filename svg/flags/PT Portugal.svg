@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#006600"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(0.387,0,0,1.0434,-0.387,-1.3913)"
+  />
+  <path style="fill:#ff0000"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(0.6451,0,0,1.0434,23.3548,-1.3913)"
+  />
+  <path style="fill:none; stroke:#ffff00; stroke-width:3"
+        d="M32 16C23.16 16 16 23.16 16 32C16 40.83 23.16 48 32 48C40.83 48 48 40.83 48 32C48 23.16 40.83 16 32 16z"
+        transform="matrix(0.6821,0,0,0.7107,2.1714,7.7571)"
+  />
+  <path style="fill:none; stroke:#ffff00; stroke-width:2"
+        d="M32 27L17 28L31 31L17 33L30 37L18 38"
+  />
+  <path style="fill:none; stroke:#ffff00; stroke-width:2"
+        d="M24 21V41"
+  />
+  <path style="fill:#ff0000"
+        d="M20 25H28C28 25 28 31 28 32C28 37 20 37 20 32C20 30 20 25 20 25z"
+  />
+  <path style="fill:#ffffff"
+        d="M20 25H28C28 25 28 31 28 32C28 37 20 37 20 32C20 30 20 25 20 25z"
+  />
+  <path style="fill:none; stroke:#7e7e7e; stroke-width:1"
+        d="M1 9H63V55H1V9z"
+  />
+ </g>
+</svg>

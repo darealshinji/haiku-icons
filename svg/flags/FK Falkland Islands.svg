@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#07286b"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(1.0322,0,0,1.0434,-1.0322,-1.3913)"
+  />
+  <path style="fill:#0071c3"
+        d="M38 22C38 45 39 45 48 48C58 45 59 45 59 22C56 22 42 22 38 22z"
+  />
+  <path style="fill:#ffffff"
+        d="M64 12V17L10 52H0V47L54 12H64z
+           M0 12H8L64 46V52H56L0 18V12z"
+        transform="matrix(0.5,0,0,0.5749,0,1.1)"
+  />
+  <path style="fill:#cc0000"
+        d="M64 12L7 52H0L57 12H64z
+           M0 12L64 48V52L0 16V12z"
+        transform="matrix(0.5,0,0,0.5749,0,1.1)"
+  />
+  <path style="fill:#ffffff"
+        d="M0 26H26V12H38V26H64V38H38V52H26V38H0V26z"
+        transform="matrix(0.5,0,0,0.5749,0,1.1)"
+  />
+  <path style="fill:#cc0000"
+        d="M0 36V28H28V12H36V28H64V36H36V52H28V36H0z"
+        transform="matrix(0.5,0,0,0.5749,0,1.1)"
+  />
+  <path style="fill:none; stroke:#7e7e7e; stroke-width:1"
+        d="M1 9H63V55H1V9z"
+  />
+  <path style="fill:#ffffff"
+        d="M40 28C40 28 42 25 43 25C44 25 45 27 46 27C47 27 53 26 56 27C57 29 56 35 56 35H55V33H54V35H53V33C53 33 48 34 47 33C47 34 47 35 47 35H45C45 35 46 33 45 33C44 33 42 30 43 29C40 30 40 28 40 28z"
+  />
+  <path style="fill:#005020"
+        d="M1 9H63V55H1V9z"
+        transform="matrix(0.2419,0,0,0.0434,41.758,34.6086)"
+  />
+  <path style="fill:none; stroke:#ffffff; stroke-width:2"
+        d="M39 39C39 39 42 35 46 39C50 43 51 39 51 39C51 39 55 35 58 39"
+        transform="matrix(1,0,0,0.8218,0,7.4506)"
+  />
+  <path style="fill:none; stroke:#ffffff; stroke-width:2"
+        d="M39 39C39 39 42 35 46 39C50 43 51 39 51 39C51 39 55 35 58 39"
+        transform="matrix(0.8055,0,0,0.8218,9.4284,11.4506)"
+  />
+ </g>
+</svg>
