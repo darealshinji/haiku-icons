@@ -4,18 +4,23 @@
  <g>
   <path style="fill:#989898"
         d="M0 0V12H32V0H0z"
+        transform="matrix(1,0,0,1,12,0)"
   />
   <path style="fill:#c8c8c8"
         d="M0 12V56H52V12H0z"
+        transform="matrix(1,0,0,1,12,0)"
   />
   <path style="fill:#787878"
         d="M4 52V4H32V12H52V8H36V0H0V52H4z"
+        transform="matrix(1,0,0,1,12,0)"
   />
   <path style="fill:#000000"
         d="M0 56H52V12H48V52H0V56z"
+        transform="matrix(1,0,0,1,12,0)"
   />
   <path style="fill:#000000"
         d="M32 4V8H36V4H32z"
+        transform="matrix(1,0,0,1,12,0)"
   />
  </g>
 </svg>

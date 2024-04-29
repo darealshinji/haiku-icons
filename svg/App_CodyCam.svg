@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#010101; fill-opacity:0.4078"
+        d="M38 40C25.84 40 16 45.37 16 52C16 52 25.84 64 38 64C50.14 64 60 58.61 60 52C60 45.37 50.14 40 38 40z"
+  />
+  <linearGradient id="gradient0" gradientUnits="userSpaceOnUse" x1="52" y1="-64" x2="68" y2="-64">
+   <stop offset="0" stop-color="#010000"/>
+   <stop offset="1" stop-color="#010000" stop-opacity="0"/>
+  </linearGradient>
+  <path style="fill:none; stroke:url(#gradient0); stroke-width:4"
+        d="M44 44C44 44 49.51 38 54 38C58 38 56 46 64 42"
+  />
+  <path style="fill:none; stroke:#010000; stroke-width:4"
+        d="M28 34C28 34 23 48 14 49V52L34 62L48 48L45 34H28z"
+  />
+  <linearGradient id="gradient1" gradientUnits="userSpaceOnUse" x1="41.67" y1="-9.73" x2="71.92" y2="-3.5">
+   <stop offset="0" stop-color="#5c5c5c"/>
+   <stop offset="1" stop-color="#b8b8b8"/>
+  </linearGradient>
+  <path style="fill:url(#gradient1)"
+        d="M34 36V62L48 48L45 34L34 36z"
+  />
+  <linearGradient id="gradient2" gradientUnits="userSpaceOnUse" x1="14.26" y1="97.46" x2="-8.94" y2="81.76">
+   <stop offset="0" stop-color="#c9c9c9"/>
+   <stop offset="1" stop-color="#ffffff"/>
+  </linearGradient>
+  <path style="fill:url(#gradient2)"
+        d="M14 52L34 62V58L14 49V52z"
+  />
+  <linearGradient id="gradient3" gradientUnits="userSpaceOnUse" x1="51.94" y1="63.65" x2="26.51" y2="73.34">
+   <stop offset="0" stop-color="#797979"/>
+   <stop offset="1" stop-color="#e4e4e4"/>
+  </linearGradient>
+  <path style="fill:url(#gradient3)"
+        d="M34 58C41 51 40 39 40 39L28 34C28 34 23 48 14 49L34 58z"
+  />
+  <path style="fill:none; stroke:#010000; stroke-width:4"
+        d="M30 2C18.95 2 10 10.95 10 22C10 33.03 18.95 42 30 42C41.03 42 50 33.03 50 22C50 10.95 41.03 2 30 2z"
+  />
+  <radialGradient id="gradient4" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="64" gradientTransform="matrix(0.373,0.2924,-0.3363,0.4291,25.2905,16.1419)">
+   <stop offset="0.1647" stop-color="#ffffff"/>
+   <stop offset="0.7686" stop-color="#959191"/>
+   <stop offset="1" stop-color="#b9b9b9"/>
+  </radialGradient>
+  <path style="fill:url(#gradient4)"
+        d="M30 2C18.95 2 10 10.95 10 22C10 33.03 18.95 42 30 42C41.03 42 50 33.03 50 22C50 10.95 41.03 2 30 2z"
+  />
+  <linearGradient id="gradient5" gradientUnits="userSpaceOnUse" x1="-6" y1="-4" x2="38" y2="-4">
+   <stop offset="0.2509" stop-color="#010101"/>
+   <stop offset="1" stop-color="#c1acac"/>
+  </linearGradient>
+  <path style="fill:none; stroke:url(#gradient5); stroke-width:4"
+        d="M12.25 43.25C9.83 45.6 10.61 50.31 13.99 53.76C17.35 57.23 22.03 58.1 24.46 55.75C26.87 53.41 26.09 48.7 22.73 45.24C19.36 41.79 14.67 40.91 12.25 43.25z"
+        transform="matrix(0.9846,0.4347,-0.4379,0.9773,24.6832,-30.2941)"
+  />
+  <radialGradient id="gradient6" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="64" gradientTransform="matrix(0.1345,0.0871,-0.0673,0.1039,20.7047,50.7358)">
+   <stop offset="0" stop-color="#434a68"/>
+   <stop offset="1" stop-color="#0f1238"/>
+  </radialGradient>
+  <path style="fill:url(#gradient6)"
+        d="M12.25 43.25C9.83 45.6 10.61 50.31 13.99 53.76C17.35 57.23 22.03 58.1 24.46 55.75C26.87 53.41 26.09 48.7 22.73 45.24C19.36 41.79 14.67 40.91 12.25 43.25z"
+        transform="matrix(0.9846,0.4347,-0.4379,0.9773,26.8385,-30.2941)"
+  />
+  <path style="fill:#ffffff"
+        d="M12.25 43.25C9.83 45.6 10.61 50.31 13.99 53.76C17.35 57.23 22.03 58.1 24.46 55.75C26.87 53.41 26.09 48.7 22.73 45.24C19.36 41.79 14.67 40.91 12.25 43.25z"
+        transform="matrix(-0.0781,0.1744,-0.1757,-0.0775,31.659,20.9543)"
+  />
+  <path style="fill:#ffffff"
+        d="M19 53C19 53 22.24 53.24 23.24 52.24C24.24 51.24 24 49 24 49C24 49 24.87 52.1 23.87 53.1C22.87 54.1 19 53 19 53z"
+        transform="matrix(0.9846,0.4347,-0.4379,0.9773,26.8385,-30.2941)"
+  />
+ </g>
+</svg>

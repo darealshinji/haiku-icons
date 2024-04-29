@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#ffffff"
+        d=""
+        transform="matrix(5.1906,0,0,5.2082,-113.0678,-134.7208)"
+  />
+  <path style="fill:#000001"
+        d="M20 24H34V34H20V24z"
+        transform="matrix(2.9661,0,0,2.9761,-50.7796,-63.2931)"
+  />
+  <linearGradient id="gradient0" gradientUnits="userSpaceOnUse" x1="3.26" y1="-90.39" x2="117.27" y2="-32.2">
+   <stop offset="0.4861" stop-color="#77ad77"/>
+   <stop offset="0.6269" stop-color="#669866"/>
+  </linearGradient>
+  <path style="fill:url(#gradient0)"
+        d="M21 25H33V33H21V25z"
+        transform="matrix(2.9661,0,0,2.9761,-50.7796,-63.2931)"
+  />
+  <path style="fill:none; stroke:#f9f9f9; stroke-width:1"
+        d="M23.5 27.25V31"
+        transform="matrix(2.9661,0,0,3.0753,-50.7796,-66.3685)"
+  />
+  <path style="fill:none; stroke:#f9f9f9; stroke-width:1"
+        d="M25 27.12L25.12 30.87"
+        transform="matrix(2.6363,0,0,3.0744,-41.218,-65.9587)"
+  />
+  <path style="fill:none; stroke:#f9f9f9; stroke-width:1"
+        d="M22.25 28.37C22.25 28.37 23 28.62 24.62 28.5V28.5C25.62 29.37 27 29.62 27 29.62"
+        transform="matrix(2.9661,0,0,2.9761,-50.7796,-63.2931)"
+  />
+  <path style="fill:#000001"
+        d="M31 25V40H35V25.25L31 25z"
+        transform="matrix(2.9661,0,0,2.9761,-50.7796,-63.2931)"
+  />
+  <path style="fill:#000001"
+        d="M30.37 38H35V40L29.75 40.12L30.37 38z"
+        transform="matrix(2.9661,0,0,2.9761,-50.7796,-63.2931)"
+  />
+  <path style="fill:#000001"
+        d="M36 37.37L35.87 29.25L35 27.62V38.5L36 37.37z"
+        transform="matrix(3.3368,0,0,2.9761,-64.1271,-63.2931)"
+  />
+  <linearGradient id="gradient1" gradientUnits="userSpaceOnUse" x1="29.74" y1="-69.77" x2="85.86" y2="-47.44">
+   <stop offset="0.6527" stop-color="#a4d0ff"/>
+   <stop offset="0.7182" stop-color="#81c0ff"/>
+  </linearGradient>
+  <path style="fill:url(#gradient1)"
+        d="M32 38H34V32H32V38z"
+        transform="matrix(2.9661,0,0,2.9761,-50.7796,-63.2931)"
+  />
+  <path style="fill:#000001"
+        d="M26.75 35.62L28 36H34V35H28L26.75 35.62z"
+        transform="matrix(2.9661,0,0,2.9761,-50.7796,-63.2931)"
+  />
+  <path style="fill:#6697cb"
+        d="M34 36H35V38H34V36z"
+        transform="matrix(2.9661,0,0,2.9761,-50.7796,-63.2931)"
+  />
+  <linearGradient id="gradient2" gradientUnits="userSpaceOnUse" x1="71.84" y1="-61.59" x2="105.42" y2="-38.7">
+   <stop offset="0.4981" stop-color="#b17739"/>
+   <stop offset="0.6684" stop-color="#986632"/>
+  </linearGradient>
+  <path style="fill:url(#gradient2)"
+        d="M32 38L31 39H34V38H32z"
+        transform="matrix(2.9661,0,0,2.9761,-50.7796,-63.2931)"
+  />
+  <linearGradient id="gradient3" gradientUnits="userSpaceOnUse" x1="-18.38" y1="-86.99" x2="102.12" y2="-43.83">
+   <stop offset="0" stop-color="#e0e0e0"/>
+   <stop offset="1" stop-color="#c4c4c4"/>
+  </linearGradient>
+  <path style="fill:url(#gradient3)"
+        d="M34.12 29.12L31 29V31H33V33H34V34H35L34.87 30.12L34.12 29.12z"
+        transform="matrix(2.9661,0,0,2.9761,-50.7796,-63.2931)"
+  />
+  <path style="fill:#000001"
+        d="M31 32.37L30.25 30.5L29.37 29.62L28 29L26.62 27.87L29.87 28.5L31 30V32.37z"
+        transform="matrix(2.9661,0,0,2.9761,-50.7796,-63.2931)"
+  />
+  <path style="fill:#000001"
+        d="M29.25 26.37H27.62L26.12 27.12L26.25 28H31V27H30"
+        transform="matrix(2.9661,0,0,2.9761,-50.7796,-63.2931)"
+  />
+  <path style="fill:#ffc286"
+        d="M27 28H28V27H27V28z"
+        transform="matrix(2.9661,0,0,2.9761,-50.7796,-63.2931)"
+  />
+  <linearGradient id="gradient4" gradientUnits="userSpaceOnUse" x1="57.98" y1="-63.72" x2="89.28" y2="-47.91">
+   <stop offset="0.4464" stop-color="#ffddbb"/>
+   <stop offset="0.5694" stop-color="#ffc388"/>
+  </linearGradient>
+  <path style="fill:url(#gradient4)"
+        d="M31 26L32.87 26.37L33 28H31V26z"
+        transform="matrix(2.9661,0,0,2.9761,-50.7796,-63.2931)"
+  />
+  <path style="fill:#986632"
+        d="M33 27H34V28H33V27z"
+        transform="matrix(2.9661,0,0,2.9761,-50.7796,-63.2931)"
+  />
+  <path style="fill:#d8d8d8"
+        d="M28 27L30.37 27.62L30.75 29.62L28 28V27z"
+        transform="matrix(2.9661,0,0,2.9761,-50.7796,-63.2931)"
+  />
+  <path style="fill:#d8d8d8"
+        d="M30 28H31V29H30V28z"
+        transform="matrix(2.9661,0,0,2.9761,-50.7796,-63.2931)"
+  />
+  <path style="fill:#4b4b4b"
+        d="M34 31V35L32.87 33.62L33 31H34z"
+        transform="matrix(2.9661,0,0,2.9761,-50.7796,-63.2931)"
+  />
+  <path style="fill:#d8d8d8"
+        d="M31 31V29H33V32H32L31 31z"
+        transform="matrix(2.9661,0,0,2.9761,-50.7796,-63.2931)"
+  />
+  <path style="fill:#d8d8d8"
+        d="M31 29H33V31H32V30H31V29z"
+        transform="matrix(2.9661,0,0,2.9761,-50.7796,-63.2931)"
+  />
+  <path style="fill:#404040"
+        d="M33 28H34V29H33V28z"
+        transform="matrix(2.9661,0,0,2.9761,-50.7796,-63.2931)"
+  />
+  <path style="fill:#585858"
+        d="M33.37 29.5L34 31H33L33.37 29.5z"
+        transform="matrix(2.9661,0,0,2.9761,-50.7796,-63.2931)"
+  />
+  <path style="fill:#b0b0b0"
+        d=""
+        transform="matrix(2.9661,0,0,2.9761,-50.7796,-63.2931)"
+  />
+  <path style="fill:#888888"
+        d=""
+        transform="matrix(2.9661,0,0,2.9761,-50.7796,-63.2931)"
+  />
+  <path style="fill:#ffc286"
+        d="M34 34H35V35H34V34z"
+        transform="matrix(2.9661,0,0,2.9761,-50.7796,-63.2931)"
+  />
+  <linearGradient id="gradient5" gradientUnits="userSpaceOnUse" x1="42.18" y1="-80.82" x2="115.74" y2="-35.31">
+   <stop offset="0" stop-color="#575757"/>
+   <stop offset="0.9345" stop-color="#3e3e3e"/>
+  </linearGradient>
+  <path style="fill:url(#gradient5)"
+        d="M31 26H33V27H34V25H31V26z"
+        transform="matrix(2.9661,0,0,2.9761,-50.7796,-63.2931)"
+  />
+  <path style="fill:#738495"
+        d="M32 32H33V33H32V32z"
+        transform="matrix(2.9661,0,0,2.9761,-50.7796,-63.2931)"
+  />
+  <path style="fill:#626262"
+        d="M31 28H33V29H31V28z"
+        transform="matrix(2.9661,0,0,2.9761,-50.7796,-63.2931)"
+  />
+ </g>
+</svg>
