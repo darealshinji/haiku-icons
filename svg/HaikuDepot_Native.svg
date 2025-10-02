@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:none; stroke:#000000; stroke-width:4"
+        d="M30 4C15.63 4 4 15.63 4 30C4 44.35 15.63 56 30 56C44.35 56 56 44.35 56 30C56 15.63 44.35 4 30 4z"
+  />
+  <path style="fill:#3771aa"
+        d="M30 4C15.63 4 4 15.63 4 30C4 44.35 15.63 56 30 56C44.35 56 56 44.35 56 30C56 15.63 44.35 4 30 4z"
+  />
+  <path style="fill:none; stroke:#000000; stroke-width:4"
+        d="M30 11C30 11 24 17 24 27.5C21 21.5 13.49 20 13.49 20C13.49 20 12 29 21 33.5C21 33.5 21 35 12 35C12 35 16.5 44 28.5 41V47H31.5V41C43.5 44 48 35 48 35C39 35 39 33.5 39 33.5C48 29 46.5 20 46.5 20C46.5 20 39 21.5 36 27.5C36 17 30 11 30 11z"
+  />
+  <radialGradient id="gradient0" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="64" gradientTransform="matrix(0.0874,-0.379,0.4747,0.1095,19.1495,34.5888)">
+   <stop offset="0" stop-color="#ffb11b"/>
+   <stop offset="1" stop-color="#fff9c7"/>
+  </radialGradient>
+  <path style="fill:url(#gradient0)"
+        d="M30 11C30 11 24 17 24 27.5C21 21.5 13.49 20 13.49 20C13.49 20 12 29 21 33.5C21 33.5 21 35 12 35C12 35 16.5 44 28.5 41V47H31.5V41C43.5 44 48 35 48 35C39 35 39 33.5 39 33.5C48 29 46.5 20 46.5 20C46.5 20 39 21.5 36 27.5C36 17 30 11 30 11z"
+  />
+ </g>
+</svg>

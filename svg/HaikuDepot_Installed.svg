@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#68d905"
+        d="M30 4C15.63 4 4 15.63 4 30C4 44.35 15.63 56 30 56C44.35 56 56 44.35 56 30C56 15.63 44.35 4 30 4z"
+  />
+  <path style="fill:#ffffff"
+        d="M19 26L28 34L41 16L49 22L30 47L13 33L19 26z"
+  />
+ </g>
+</svg>
